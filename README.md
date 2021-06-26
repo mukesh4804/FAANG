@@ -15,6 +15,7 @@ Redis :
 https://www.crio.do/blog/what-is-redis/
 
 Consistent Hashing:
+https://medium.com/@yogendrasaxena56/consistent-hashing-a-reliable-algorithm-to-scale-your-system-fb5145acc700
 https://www.youtube.com/watch?v=JEiIIjX10zE
 
 Two Pointer :

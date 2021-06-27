@@ -15,9 +15,7 @@ Redis :
 https://www.crio.do/blog/what-is-redis/
 
 Consistent Hashing:
-https://medium.com/@yogendrasaxena56/consistent-hashing-a-reliable-algorithm-to-scale-your-system-fb5145acc700
-regarding virtual server addition and deletion refer article below :
-https://www.programmersought.com/article/1086357073/
+https://www.toptal.com/big-data/consistent-hashing
 https://www.youtube.com/watch?v=JEiIIjX10zE
 
 Two Pointer :

@@ -4,7 +4,7 @@ FAANG
 Design Patterns
 1. Creational 
    a. Singleton
-   https://medium.com/swlh/design-pattern-part-1-48611aba4bfa
+   https://springhow.com/singleton-pattern/
    
    
 CAP Theorem:
